@@ -26,7 +26,7 @@ const reasons = [
   {
     icon: MapPin,
     title: "Convenient Location",
-    description: "Kabete area — easily accessible and conveniently located to serve the community.",
+    description: "Wangige, Nairobi — conveniently located and easily accessible to serve the community.",
     stat: "24/7",
     statLabel: "Always Open",
   },
