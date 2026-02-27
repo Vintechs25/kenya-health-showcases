@@ -70,7 +70,7 @@ const ContactSection = () => {
               asChild
             >
               <a
-                href="https://wa.me/254202717077?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20services%20at%20Ngara%20Health%20Centre."
+                href="https://wa.me/254202300831?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20services%20at%20Kabete%20Gardens%20Hospital."
                 target="_blank"
                 rel="noopener noreferrer"
               >
