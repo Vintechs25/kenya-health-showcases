@@ -16,7 +16,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-sm text-background/50 leading-relaxed">
-              A government health facility providing quality, accessible healthcare to the Ngara community and Starehe Sub-County.
+              A Level 4 hospital providing quality healthcare in a warm and special way to the Kabete community.
             </p>
           </div>
 
