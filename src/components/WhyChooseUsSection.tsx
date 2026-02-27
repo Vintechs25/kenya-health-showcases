@@ -11,8 +11,8 @@ const reasons = [
   },
   {
     icon: ShieldCheck,
-    title: "Government Recognized",
-    description: "Fully registered and compliant with Kenya's health regulations and quality standards.",
+    title: "NHIF Accredited",
+    description: "Fully accredited by NHIF, ensuring affordable and accessible healthcare coverage for all patients.",
     stat: "Level 4",
     statLabel: "Hospital",
   },
