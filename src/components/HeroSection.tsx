@@ -9,7 +9,7 @@ const HeroSection = () => {
       <div className="absolute inset-0">
         <img
           src={heroImage}
-          alt="Ngara Health Centre facility"
+          alt="Kabete Gardens Hospital facility"
           className="w-full h-full object-cover"
           loading="eager"
         />
