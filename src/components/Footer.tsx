@@ -53,7 +53,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-2 text-background/50">
                 <Mail className="h-4 w-4 shrink-0" />
-                kmhfl@health.go.ke
+                info@kabetegardenshospital.co.ke
               </li>
               <li className="flex items-start gap-2 text-background/50">
                 <MapPin className="h-4 w-4 shrink-0 mt-0.5" />
