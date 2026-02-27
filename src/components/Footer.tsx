@@ -36,7 +36,7 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold text-background text-sm mb-4">Services</h4>
             <ul className="space-y-2 text-sm">
-              {["Outpatient", "Maternity", "Laboratory", "Pharmacy", "Emergency", "In-Patient"].map((s) => (
+              {["Outpatient", "Maternity", "Laboratory", "Pharmacy", "Emergency", "In-Patient", "Minor Theatre", "Major Theatre"].map((s) => (
                 <li key={s}>
                   <span className="text-background/50">{s}</span>
                 </li>
