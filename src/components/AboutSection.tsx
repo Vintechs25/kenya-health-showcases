@@ -3,10 +3,10 @@ import { Heart, Users, ShieldCheck, Building } from "lucide-react";
 import aboutImg from "@/assets/about-doctor.jpg";
 
 const highlights = [
-  { icon: ShieldCheck, label: "Ministry of Health" },
-  { icon: Users, label: "Community Focused" },
+  { icon: ShieldCheck, label: "NHIF Accredited" },
+  { icon: Users, label: "Private Facility" },
   { icon: Building, label: "KEPH Level 4" },
-  { icon: Heart, label: "Patient Centered" },
+  { icon: Heart, label: "Minor & Major Theatre" },
 ];
 
 const AboutSection = () => {
