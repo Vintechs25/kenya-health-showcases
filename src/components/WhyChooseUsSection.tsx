@@ -26,7 +26,7 @@ const reasons = [
   {
     icon: MapPin,
     title: "Convenient Location",
-    description: "Park Road, Ngara — easily accessible by public transport and close to the city centre.",
+    description: "Kabete area — easily accessible and conveniently located to serve the community.",
     stat: "24/7",
     statLabel: "Always Open",
   },
