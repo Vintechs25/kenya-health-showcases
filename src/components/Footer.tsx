@@ -63,9 +63,20 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="border-t border-background/10 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-background/40">
+        <div className="border-t border-background/10 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-background/40">
           <p>© 2025 Ngara Health Centre. All rights reserved.</p>
-          <p>Demo Preview – Created by Vintech Systems</p>
+          <div className="flex items-center gap-2">
+            <span>Demo Preview – Created by</span>
+            <video
+              src="/vintech_logo.mp4"
+              autoPlay
+              loop
+              muted
+              playsInline
+              className="h-5 w-auto rounded-sm"
+            />
+            <span className="font-semibold text-background/60">Vintech Systems</span>
+          </div>
         </div>
       </div>
     </footer>

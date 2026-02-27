@@ -16,9 +16,17 @@ const DemoBanner = () => {
             <span className="text-accent font-semibold">DEMO</span>
           </span>
           <span className="text-background/80">
-            This is a demo preview by{" "}
-            <span className="font-semibold text-background">Vintech Systems</span>
+            Preview by{" "}
           </span>
+          <video
+            src="/vintech_logo.mp4"
+            autoPlay
+            loop
+            muted
+            playsInline
+            className="h-5 w-auto inline-block rounded-sm"
+          />
+          <span className="font-semibold text-background">Vintech Systems</span>
           <span className="hidden sm:inline text-background/50">|</span>
           <a href="tel:0719767590" className="hidden sm:inline-flex items-center gap-1 text-background/70 hover:text-background transition-colors">
             <Phone className="h-3 w-3" />
@@ -40,7 +48,17 @@ const DemoBanner = () => {
 
       {/* Bottom floating badge */}
       <div className="fixed bottom-4 left-4 z-[60] bg-foreground/95 backdrop-blur text-background rounded-xl px-4 py-3 card-shadow max-w-xs">
-        <p className="text-xs font-semibold text-accent mb-1">🚀 Demo Preview</p>
+        <div className="flex items-center gap-2 mb-1.5">
+          <video
+            src="/vintech_logo.mp4"
+            autoPlay
+            loop
+            muted
+            playsInline
+            className="h-6 w-auto rounded-sm"
+          />
+          <p className="text-xs font-semibold text-accent">Demo Preview</p>
+        </div>
         <p className="text-[11px] text-background/60 leading-relaxed mb-2">
           Want a website like this for your hospital? Contact Vintech Systems today.
         </p>
