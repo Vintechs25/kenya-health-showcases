@@ -18,8 +18,8 @@ const contactDetails = [
   {
     icon: MapPin,
     label: "Address",
-    value: "Kabete, Kiambu County, Kenya",
-    href: "https://www.google.com/maps?q=-1.2500,36.7200",
+    value: "Wangige, Nairobi, Kenya",
+    href: "https://www.google.com/maps?q=Kabete+Gardens+Hospital+Wangige",
   },
 ];
 
