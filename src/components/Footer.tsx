@@ -16,7 +16,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-sm text-background/50 leading-relaxed">
-              A Level 4 hospital providing quality healthcare in a warm and special way to the Kabete community.
+              A private NHIF-accredited Level 4 hospital offering quality healthcare in a warm and special way in Wangige, Nairobi.
             </p>
           </div>
 
