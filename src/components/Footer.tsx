@@ -57,7 +57,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start gap-2 text-background/50">
                 <MapPin className="h-4 w-4 shrink-0 mt-0.5" />
-                Park Road, Ngara, Nairobi
+                Kabete, Kiambu County
               </li>
             </ul>
           </div>
